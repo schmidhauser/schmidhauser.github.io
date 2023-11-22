@@ -1,5 +1,5 @@
-### AUS on GitHub
+### Andreas U. Schmidhauser on GitHub
 
-The homepage for [Andreas U. Schmidhauser](https://schmidhauser.org)’s GitHub presence.
+A page for some of my GitHub projects. More information may be found at my homepage [schmidhauser.org](https://schmidhauser.org).
 
 <!-- Cf. https://edwardtufte.github.io for structure and presentation of various projects -->
